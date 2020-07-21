@@ -8,7 +8,6 @@ astreminix.on('ready', async () => {
 
 console.log(`Logged in as ${astreminix.user.username}, ready to get this bread.`);
 }
-}
 });
 
 
